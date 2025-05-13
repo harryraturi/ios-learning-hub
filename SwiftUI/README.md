@@ -10,3 +10,7 @@
 ## 🔗 Links & Navigation
 
 - [UILink](./UILink/README.md)
+
+## 🎨 Gradient Text in SwiftUI
+
+- [GradientText](./GradientText/README.md)
