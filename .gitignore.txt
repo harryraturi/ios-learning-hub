@@ -60,6 +60,7 @@ playground.xcworkspace
 
 # User schemes
 *.xcodeproj/xcuserdata
+*.xcuserstate
 
 # Local env files
 .env
