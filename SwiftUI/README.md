@@ -14,3 +14,8 @@
 ## 🎨 Gradient Text in SwiftUI
 
 - [GradientText](./GradientText/README.md)
+
+
+## 📖 Wishlist App
+
+- [Wishlist App](./Wishlist/README.md)
